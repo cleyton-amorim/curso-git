@@ -12,6 +12,7 @@ namespace ExemploDatetime
             string s2 = dt.ToLongDateString(); 
             Console.WriteLine(s);
             Console.WriteLine(s2);
+            Console.WriteLine("Boa tarde");
         }
     }
 }
