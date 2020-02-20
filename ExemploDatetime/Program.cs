@@ -13,6 +13,7 @@ namespace ExemploDatetime
             Console.WriteLine(s);
             Console.WriteLine(s2);
             Console.WriteLine("Boa tarde");
+            Console.WriteLine("Tenha um otimo Final de Semana");
         }
     }
 }
